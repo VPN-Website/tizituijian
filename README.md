@@ -46,7 +46,7 @@
 |ShadowsocksR Plus+||||||✔|
 |sing-box|✔|✔|✔|✔|✔||
 |[Stash](https://ihaoke.vip/stash-clash-for-iso/)||✔||✔|||
-|[Surfboard](https://getsurfboard.org/?utm_source=github&utm_medium=jichangtuijian)|||||✔||
+|Surfboard|||||✔||
 |Surge iOS||||✔|||
 |Surge Mac||✔|||||
 |[v2rayN](https://ihaoke.vip/v2rayn-for-windows/)|✔||||||
