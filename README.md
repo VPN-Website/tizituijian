@@ -32,7 +32,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |[Clash for Android](https://ihaoke.vip/clash-for-android/)|||||✔||
 |[Clash for Windows](https://ihaoke.vip/clash-for-windows/)|✔|✔|✔||||
-|[Clsah Verge]()|✔|✔|✔||||
+|Clsah Verge|✔|✔|✔||||
 |ClashX||✔|||||
 |ClashX Pro||✔|||||
 |NekoBox for Android|||||✔||
