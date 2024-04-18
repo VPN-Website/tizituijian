@@ -49,7 +49,7 @@
 |Surfboard|||||✔||
 |Surge iOS||||✔|||
 |Surge Mac||✔|||||
-|[v2rayN](https://ihaoke.vip/v2rayn-for-windows/)|✔||||||
+|[v2rayN](https://iheikeji.com/bgfw/tools/v2rayn.html)|✔||||||
 |v2rayNG|||||✔||
 |V2rayU||✔|||||
 
