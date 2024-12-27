@@ -1,4 +1,4 @@
-# 2025年五大稳定好用的翻墙机场推荐︱最新VPN梯子加速器分享🚀🚀🚀
+![image](https://github.com/user-attachments/assets/a1db1e74-9e7d-40a2-878c-3f83f7569a08)# 2025年五大稳定好用的翻墙机场推荐︱最新VPN梯子加速器分享🚀🚀🚀
 
 ## 翻墙梯子VPN推荐前言
 
@@ -84,7 +84,7 @@ Netflix、Disney+等国外流媒体平台和ChatGPT解锁支持。
 
 #### 疾风云机场测速
 
-![image](https://github.com/VPN-Website/tizituijian/assets/153252983/82e1f34f-0ddb-4265-8004-f913f6280c76)
+![image](https://www.cnvintage.org/assets/files/2024-12-27/1735301202-216173-snipaste-2024-12-27-20-06-04.png)
 
 
 ### 2. 耐思云
@@ -111,7 +111,7 @@ Netflix、Disney+等国外流媒体平台和ChatGPT解锁支持，不限宽带�
 
 #### 耐思云机场测速
 
-![image](https://github.com/VPN-Website/tizituijian/assets/153252983/75aa7301-a2e5-4311-8d32-6b2fb08d0a00)
+![image](https://www.cnvintage.org/assets/files/2024-12-27/1735301291-112571-snipaste-2024-12-27-20-07-44.png)
 
 
 ### 3. 速云梯
@@ -138,7 +138,7 @@ Netflix、Disney+等国外流媒体平台和ChatGPT解锁支持。
 
 #### 速云梯机场测速
 
-![image](https://github.com/VPN-Website/tizituijian/assets/153252983/29ae3a4d-4549-406c-9885-391d7012b5ae)
+![image](https://www.cnvintage.org/assets/files/2024-12-27/1735301472-19054-snipaste-2024-12-27-20-10-52.png)
 
 
 ### 4. 苏打云机场
