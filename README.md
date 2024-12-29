@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a1db1e74-9e7d-40a2-878c-3f83f7569a08)# 2025年五大稳定好用的翻墙机场推荐︱最新VPN梯子加速器分享🚀🚀🚀
+# 2025年五大稳定好用的翻墙机场推荐︱最新VPN梯子加速器分享🚀🚀🚀
 
 ## 翻墙梯子VPN推荐前言
 
