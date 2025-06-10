@@ -26,33 +26,6 @@
 * **Linux:** Clsah Verge / Clash for Windows / NekoRay / sing-box
 * **路由器:** OpenClash / PassWall2 / ShadowsocksR Plus+
 
-### 快速导航
-
-|客户端|Windows|macOS|Linux|iOS|Android|路由器|
-| --- | --- | --- | --- | --- | --- | --- |
-|[Clash for Android](https://ihaoke.vip/clash-for-android/)|||||✔||
-|[Clash for Windows](https://ihaoke.vip/clash-for-windows/)|✔|✔|✔||||
-|Clsah Verge|✔|✔|✔||||
-|ClashX||✔|||||
-|ClashX Pro||✔|||||
-|NekoBox for Android|||||✔||
-|NekoRay|✔||✔||||
-|OpenClash||||||✔|
-|PassWall2||||||✔|
-|Potatso Lite||||✔|||
-|Quantumult||||✔|||
-|[Quantumult X](https://ihaoke.vip/quantumult-x/)||✔||✔|||
-|[Shadowrocket](https://ihaoke.vip/shadowrocket-xiaohuojian/)||||✔|||
-|ShadowsocksR Plus+||||||✔|
-|sing-box|✔|✔|✔|✔|✔||
-|[Stash](https://ihaoke.vip/stash-clash-for-iso/)||✔||✔|||
-|Surfboard|||||✔||
-|Surge iOS||||✔|||
-|Surge Mac||✔|||||
-|[v2rayN](https://iheikeji.com/bgfw/tools/v2rayn.html)|✔||||||
-|v2rayNG|||||✔||
-|V2rayU||✔|||||
-
 ---
 
 ## 中国地区5大稳定好用便宜的机场梯子推荐
@@ -65,11 +38,11 @@ BGP全中转+IPLC/IEPL 专线,无直连。
 
 Netflix、Disney+等国外流媒体平台和ChatGPT解锁支持。
 
-**月付 13 元起**，签到领流量，支持不满意退款。
+**月付 14 元起**，签到领流量，支持不满意退款。
 
 #### 疾风云官网
 
-[疾风云最新官网](https://go.51tz.cc/jfcloud)
+[疾风云最新官网](https://affg.cc/jife)
 
 #### 疾风云套餐价格
 
@@ -97,7 +70,7 @@ Netflix、Disney+等国外流媒体平台和ChatGPT解锁支持，不限宽带�
 
 #### 耐思云官网
 
-[耐思云最新官网](https://go.51tz.cc/nicecloud)
+[耐思云最新官网](https://affg.cc/nisi)
 
 #### 耐思云套餐价格
 
@@ -124,7 +97,7 @@ Netflix、Disney+等国外流媒体平台和ChatGPT解锁支持。
 
 #### 速云梯官网
 
-[速云梯最新官网](https://go.51tz.cc/sycloud)
+[速云梯最新官网](https://affg.cc/suyu)
 
 #### 速云梯套餐价格
 
@@ -152,7 +125,7 @@ Soda苏打云机场是一家成立于2022年的翻墙机场，采用流行的Sha
 
 #### 苏打云机场官网
 
-[苏打云机场最新官网](https://go.51tz.cc/sodacloud)
+[苏打云机场最新官网](https://affg.cc/soda)
 
 #### 苏打云机场套餐价格
 
@@ -177,7 +150,7 @@ CyberGuard机场除常规月付套餐，也提供不限时长的按量付费流�
 
 #### CyberGuard机场官网
 
-[CyberGuard机场最新官网](https://go.51tz.cc/cyber)
+[CyberGuard机场最新官网](https://affg.cc/cybg)
 
 #### CyberGuard机场套餐价格
 
@@ -265,8 +238,8 @@ VPN（虚拟私人网络）是一种内置了加密通讯协议的客户端，�
 
 ---
 
-免责声明： 本文所介绍的[机场梯子VPN](https://gitlab.com/best_vpn1/2024-vpn)请只限用于正常外贸商务、新媒体、游戏娱乐、学习交流，切勿用在违法犯罪用途，用户请自觉遵守当地法律法规，出现一切后果本项目作者概不负责。
+免责声明： 本文所介绍的[机场梯子VPN](https://discuss.d2l.ai/t/vpn/31238)请只限用于正常外贸商务、新媒体、游戏娱乐、学习交流，切勿用在违法犯罪用途，用户请自觉遵守当地法律法规，出现一切后果本项目作者概不负责。
 
-2025翻墙机场 #机场推荐 #SS/SSR机场 #机场加速器 #V2ray机场梯子 #机场梯子 #Clash节点VPN #翻墙加速器 #好用的便宜梯子 #翻墙梯子 #魔法梯子 #梯子推荐 #手机电脑梯子 #外网梯子 #外贸梯子
+2025翻墙机场 #机场推荐 #SS/SSR机场 #机场加速器 #V2ray机场梯子 #机场梯子 #Clash节点VPN #翻墙加速器 #好用的便宜梯子 #翻墙梯子 #魔法梯子 #梯子推荐 #手机电脑梯子 #外网梯子 #外贸梯子VPN
 
 
